@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ビューティフル",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T15:13:32.334204Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イッツ・ア・ビューティフル・デイ",
+      "artist": "マイケル・ブーブレ",
+      "has_synced": true,
+      "path": "select/01_イッツ・ア・ビューティフル・デイ_マイケル・ブーブレ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライズ・オブ・ザ・ビューティフル・ピープル",
+      "artist": "Sixx:A.M.",
+      "has_synced": true,
+      "path": "select/02_ライズ・オブ・ザ・ビューティフル・ピープル_Sixx_A.M..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビューティフル",
+      "artist": "チャイナ・アン・マックレーン",
+      "has_synced": true,
+      "path": "select/03_ビューティフル_チャイナ・アン・マックレーン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're So Beautiful = ユーアー・ソー・ビューティフル",
+      "artist": "Def Leppard = デフ・レパード",
+      "has_synced": false,
+      "path": "select/04_You're_So_Beautiful_=_ユーアー・ソー・ビューティフル_Def_Leppard_=_デフ・レパード.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビューティフル・ミー",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/05_ビューティフル・ミー_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユー・アー・ソー・ビューティフル",
+      "artist": "Bei Xu",
+      "has_synced": false,
+      "path": "select/06_ユー・アー・ソー・ビューティフル_Bei_Xu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビューティフル・ドリーマー",
+      "artist": "Ezoshika Gourmet Club",
+      "has_synced": true,
+      "path": "select/07_ビューティフル・ドリーマー_Ezoshika_Gourmet_Club.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ビューティフル",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/08_ビューティフル_ゆず.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ビューティフル・ミー -2014-",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/09_ビューティフル・ミー_-2014-_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ビューティフル デイ",
+      "artist": "Kicell",
+      "has_synced": true,
+      "path": "select/10_ビューティフル_デイ_Kicell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ライフ・イズ・ビューティフル",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/11_ライフ・イズ・ビューティフル_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ビューティフル・ミー",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/12_ビューティフル・ミー_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ビューティフル・サンデー",
+      "artist": "田中 星児",
+      "has_synced": false,
+      "path": "select/13_ビューティフル・サンデー_田中_星児.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ビューティフル",
+      "artist": "YUZU",
+      "has_synced": false,
+      "path": "select/14_ビューティフル_YUZU.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ライフ・イズ・ビューティフル[実演版]",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/15_ライフ・イズ・ビューティフル[実演版]_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ライフ イズ ビューティフル",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/16_ライフ_イズ_ビューティフル_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビューティフル",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ビューティフル_サンボマスター.txt"
+    }
+  ]
+}
